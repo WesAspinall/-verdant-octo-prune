@@ -1,0 +1,24 @@
+@import "bourbon";
+@import "font-awesome";
+
+body {
+  background-color: white;
+  font-family: 'Courier';
+  font-size: 62.5%;
+  background-image: url('https://www.virginchan.org/boards/b/image/1383/93/13839353348395.png');
+  background-repeat: no-repeat;
+  background-position: right bottom;
+
+}
+
+li{
+  list-style: none;
+  padding: 10em;
+  display: inline-block;
+
+}
+
+.fa{
+  font-size: 10em;
+}
+
